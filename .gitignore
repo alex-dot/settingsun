@@ -1,0 +1,7 @@
+*.sav
+*.gba
+*.elf
+build/*
+dmg_audio/*
+*.aseprite
+*.ase
